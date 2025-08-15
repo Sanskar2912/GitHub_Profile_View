@@ -43,7 +43,7 @@ Parcel or any bundler for local development (optional)
 
 Clone the repository
 
-git clone https://github.com/Sanskar2912/GitHub-Profile-View.git
+git clone https://github.com/Sanskar2912/GitHub_Profile_View.git
 cd GitHub-Profile-View
 
 
@@ -82,4 +82,5 @@ Display repository topics and languages
 📜 License
 
 This project is licensed under the MIT License.
+
 
